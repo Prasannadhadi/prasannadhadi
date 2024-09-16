@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data analysis**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhadi-jnana-prasanna-472b9224b](https://www.linkedin.com/in/dhadi-jnana-prasanna-472b9224b)
+- 👨‍💻 All of my projects are available at [https://github.com/Prasannadhadi](https://github.com/Prasannadhadi)
 
 - 💬 Ask me about **microsoft excel,mysql,python**
 
